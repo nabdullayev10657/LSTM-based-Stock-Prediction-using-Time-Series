@@ -49,7 +49,7 @@ def test(dataloader, model, loss_function, batch_size):
             with open('train_test_results.txt', 'a') as f:
                 f.write(f"Test loss for this epoch: {loss:>7f} \n\n")
 
-def calculate_metrics(data_loader, model, loss_fn, batch_size, scalar):
+def calculate_metrics(data_loader, model, loss_function, batch_size, scalar):
     pred_arr = []
     y_arr = []
     with torch.no_grad():
