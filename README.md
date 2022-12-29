@@ -27,7 +27,7 @@ git clone https://github.com/nabdullayev10657/LSTM-based-Stock-Prediction-using-
 After making sure that everything is installed, for running project, you should type:
 
 ```
-python train.py
+python main.py
 ```
 
 **RESULTS**
