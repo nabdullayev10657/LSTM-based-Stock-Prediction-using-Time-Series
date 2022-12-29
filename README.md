@@ -10,6 +10,7 @@ pip install -U scikit-learn scipy matplotlib
 Depending on version of python or facing error cases, you can try the same lines with ``` pip3 ```.
 
 **CLONING PROECT**
+
 For cloning project, you should execute this line:
 ```
 git clone https://github.com/nabdullayev10657/LSTM-based-Stock-Prediction-using-Time-Series.git
