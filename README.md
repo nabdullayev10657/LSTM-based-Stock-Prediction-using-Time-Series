@@ -17,6 +17,7 @@ git clone https://github.com/nabdullayev10657/LSTM-based-Stock-Prediction-using-
 ```
 
 **RUNNING THE CODE**
+
 After making sure that everything is installed, for running project, you should type:
 
 ```
@@ -24,6 +25,7 @@ python train.py
 ```
 
 **RESULTS**
+
 Customized LSTM model has been trained on ```epoches=300```, ```batch_size=64```. As the sequence length, I have chosen ```seq_len=50```. 
 For looking end results, we might want to see ```train_test_results.txt``` file to see train and test loss respectively after each epoch. Also, you can see MSE error at the end.
 
