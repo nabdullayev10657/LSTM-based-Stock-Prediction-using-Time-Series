@@ -1,0 +1,1203 @@
+Results for 0 epoch 
+Train loss for this epoch: 0.337016 
+Test loss for this epoch: 0.268437 
+
+Results for 1 epoch 
+Train loss for this epoch: 0.330809 
+Test loss for this epoch: 0.299672 
+
+Results for 2 epoch 
+Train loss for this epoch: 0.371518 
+Test loss for this epoch: 0.337747 
+
+Results for 3 epoch 
+Train loss for this epoch: 0.364630 
+Test loss for this epoch: 0.328939 
+
+Results for 4 epoch 
+Train loss for this epoch: 0.346953 
+Test loss for this epoch: 0.311560 
+
+Results for 5 epoch 
+Train loss for this epoch: 0.336456 
+Test loss for this epoch: 0.301005 
+
+Results for 6 epoch 
+Train loss for this epoch: 0.322742 
+Test loss for this epoch: 0.283686 
+
+Results for 7 epoch 
+Train loss for this epoch: 0.259535 
+Test loss for this epoch: 0.197856 
+
+Results for 8 epoch 
+Train loss for this epoch: 0.016587 
+Test loss for this epoch: 0.010143 
+
+Results for 9 epoch 
+Train loss for this epoch: 0.024872 
+Test loss for this epoch: 0.007482 
+
+Results for 10 epoch 
+Train loss for this epoch: 0.308307 
+Test loss for this epoch: 0.270728 
+
+Results for 11 epoch 
+Train loss for this epoch: 0.218456 
+Test loss for this epoch: 0.181184 
+
+Results for 12 epoch 
+Train loss for this epoch: 0.132519 
+Test loss for this epoch: 0.091995 
+
+Results for 13 epoch 
+Train loss for this epoch: 0.015373 
+Test loss for this epoch: 0.010953 
+
+Results for 14 epoch 
+Train loss for this epoch: 0.014043 
+Test loss for this epoch: 0.005529 
+
+Results for 15 epoch 
+Train loss for this epoch: 0.036314 
+Test loss for this epoch: 0.017410 
+
+Results for 16 epoch 
+Train loss for this epoch: 0.014506 
+Test loss for this epoch: 0.012545 
+
+Results for 17 epoch 
+Train loss for this epoch: 0.023807 
+Test loss for this epoch: 0.007037 
+
+Results for 18 epoch 
+Train loss for this epoch: 0.085479 
+Test loss for this epoch: 0.051964 
+
+Results for 19 epoch 
+Train loss for this epoch: 0.018338 
+Test loss for this epoch: 0.005651 
+
+Results for 20 epoch 
+Train loss for this epoch: 0.039429 
+Test loss for this epoch: 0.009889 
+
+Results for 21 epoch 
+Train loss for this epoch: 0.117112 
+Test loss for this epoch: 0.085830 
+
+Results for 22 epoch 
+Train loss for this epoch: 0.045021 
+Test loss for this epoch: 0.022650 
+
+Results for 23 epoch 
+Train loss for this epoch: 0.031255 
+Test loss for this epoch: 0.015133 
+
+Results for 24 epoch 
+Train loss for this epoch: 0.034345 
+Test loss for this epoch: 0.019019 
+
+Results for 25 epoch 
+Train loss for this epoch: 0.015898 
+Test loss for this epoch: 0.005547 
+
+Results for 26 epoch 
+Train loss for this epoch: 0.020566 
+Test loss for this epoch: 0.007035 
+
+Results for 27 epoch 
+Train loss for this epoch: 0.046350 
+Test loss for this epoch: 0.025692 
+
+Results for 28 epoch 
+Train loss for this epoch: 0.014190 
+Test loss for this epoch: 0.005681 
+
+Results for 29 epoch 
+Train loss for this epoch: 0.019285 
+Test loss for this epoch: 0.007315 
+
+Results for 30 epoch 
+Train loss for this epoch: 0.032076 
+Test loss for this epoch: 0.014220 
+
+Results for 31 epoch 
+Train loss for this epoch: 0.019695 
+Test loss for this epoch: 0.009260 
+
+Results for 32 epoch 
+Train loss for this epoch: 0.018725 
+Test loss for this epoch: 0.007919 
+
+Results for 33 epoch 
+Train loss for this epoch: 0.014058 
+Test loss for this epoch: 0.005827 
+
+Results for 34 epoch 
+Train loss for this epoch: 0.020628 
+Test loss for this epoch: 0.007428 
+
+Results for 35 epoch 
+Train loss for this epoch: 0.035239 
+Test loss for this epoch: 0.016624 
+
+Results for 36 epoch 
+Train loss for this epoch: 0.017928 
+Test loss for this epoch: 0.008209 
+
+Results for 37 epoch 
+Train loss for this epoch: 0.016248 
+Test loss for this epoch: 0.006593 
+
+Results for 38 epoch 
+Train loss for this epoch: 0.014111 
+Test loss for this epoch: 0.005691 
+
+Results for 39 epoch 
+Train loss for this epoch: 0.020950 
+Test loss for this epoch: 0.007378 
+
+Results for 40 epoch 
+Train loss for this epoch: 0.034986 
+Test loss for this epoch: 0.016610 
+
+Results for 41 epoch 
+Train loss for this epoch: 0.018161 
+Test loss for this epoch: 0.007881 
+
+Results for 42 epoch 
+Train loss for this epoch: 0.017144 
+Test loss for this epoch: 0.007096 
+
+Results for 43 epoch 
+Train loss for this epoch: 0.014023 
+Test loss for this epoch: 0.005696 
+
+Results for 44 epoch 
+Train loss for this epoch: 0.020190 
+Test loss for this epoch: 0.007079 
+
+Results for 45 epoch 
+Train loss for this epoch: 0.032881 
+Test loss for this epoch: 0.015112 
+
+Results for 46 epoch 
+Train loss for this epoch: 0.020558 
+Test loss for this epoch: 0.008081 
+
+Results for 47 epoch 
+Train loss for this epoch: 0.022974 
+Test loss for this epoch: 0.010460 
+
+Results for 48 epoch 
+Train loss for this epoch: 0.013971 
+Test loss for this epoch: 0.005688 
+
+Results for 49 epoch 
+Train loss for this epoch: 0.019062 
+Test loss for this epoch: 0.006890 
+
+Results for 50 epoch 
+Train loss for this epoch: 0.028462 
+Test loss for this epoch: 0.012277 
+
+Results for 51 epoch 
+Train loss for this epoch: 0.024548 
+Test loss for this epoch: 0.008351 
+
+Results for 52 epoch 
+Train loss for this epoch: 0.035007 
+Test loss for this epoch: 0.018418 
+
+Results for 53 epoch 
+Train loss for this epoch: 0.014073 
+Test loss for this epoch: 0.005538 
+
+Results for 54 epoch 
+Train loss for this epoch: 0.019065 
+Test loss for this epoch: 0.007107 
+
+Results for 55 epoch 
+Train loss for this epoch: 0.024620 
+Test loss for this epoch: 0.010498 
+
+Results for 56 epoch 
+Train loss for this epoch: 0.023608 
+Test loss for this epoch: 0.008040 
+
+Results for 57 epoch 
+Train loss for this epoch: 0.031551 
+Test loss for this epoch: 0.016118 
+
+Results for 58 epoch 
+Train loss for this epoch: 0.014052 
+Test loss for this epoch: 0.005614 
+
+Results for 59 epoch 
+Train loss for this epoch: 0.015488 
+Test loss for this epoch: 0.006013 
+
+Results for 60 epoch 
+Train loss for this epoch: 0.017289 
+Test loss for this epoch: 0.006748 
+
+Results for 61 epoch 
+Train loss for this epoch: 0.022110 
+Test loss for this epoch: 0.007437 
+
+Results for 62 epoch 
+Train loss for this epoch: 0.029879 
+Test loss for this epoch: 0.014815 
+
+Results for 63 epoch 
+Train loss for this epoch: 0.015163 
+Test loss for this epoch: 0.005980 
+
+Results for 64 epoch 
+Train loss for this epoch: 0.014164 
+Test loss for this epoch: 0.005639 
+
+Results for 65 epoch 
+Train loss for this epoch: 0.014191 
+Test loss for this epoch: 0.005561 
+
+Results for 66 epoch 
+Train loss for this epoch: 0.017960 
+Test loss for this epoch: 0.006432 
+
+Results for 67 epoch 
+Train loss for this epoch: 0.021982 
+Test loss for this epoch: 0.009477 
+
+Results for 68 epoch 
+Train loss for this epoch: 0.019358 
+Test loss for this epoch: 0.006755 
+
+Results for 69 epoch 
+Train loss for this epoch: 0.023297 
+Test loss for this epoch: 0.010936 
+
+Results for 70 epoch 
+Train loss for this epoch: 0.014265 
+Test loss for this epoch: 0.005646 
+
+Results for 71 epoch 
+Train loss for this epoch: 0.014533 
+Test loss for this epoch: 0.005621 
+
+Results for 72 epoch 
+Train loss for this epoch: 0.015839 
+Test loss for this epoch: 0.006197 
+
+Results for 73 epoch 
+Train loss for this epoch: 0.021255 
+Test loss for this epoch: 0.006820 
+
+Results for 74 epoch 
+Train loss for this epoch: 0.030528 
+Test loss for this epoch: 0.015108 
+
+Results for 75 epoch 
+Train loss for this epoch: 0.016305 
+Test loss for this epoch: 0.006038 
+
+Results for 76 epoch 
+Train loss for this epoch: 0.016127 
+Test loss for this epoch: 0.006713 
+
+Results for 77 epoch 
+Train loss for this epoch: 0.014067 
+Test loss for this epoch: 0.005556 
+
+Results for 78 epoch 
+Train loss for this epoch: 0.015498 
+Test loss for this epoch: 0.005853 
+
+Results for 79 epoch 
+Train loss for this epoch: 0.016575 
+Test loss for this epoch: 0.006626 
+
+Results for 80 epoch 
+Train loss for this epoch: 0.020577 
+Test loss for this epoch: 0.006567 
+
+Results for 81 epoch 
+Train loss for this epoch: 0.028890 
+Test loss for this epoch: 0.014162 
+
+Results for 82 epoch 
+Train loss for this epoch: 0.015841 
+Test loss for this epoch: 0.005837 
+
+Results for 83 epoch 
+Train loss for this epoch: 0.015599 
+Test loss for this epoch: 0.006415 
+
+Results for 84 epoch 
+Train loss for this epoch: 0.014112 
+Test loss for this epoch: 0.005547 
+
+Results for 85 epoch 
+Train loss for this epoch: 0.015119 
+Test loss for this epoch: 0.005754 
+
+Results for 86 epoch 
+Train loss for this epoch: 0.015498 
+Test loss for this epoch: 0.006199 
+
+Results for 87 epoch 
+Train loss for this epoch: 0.019307 
+Test loss for this epoch: 0.006282 
+
+Results for 88 epoch 
+Train loss for this epoch: 0.025703 
+Test loss for this epoch: 0.012029 
+
+Results for 89 epoch 
+Train loss for this epoch: 0.017067 
+Test loss for this epoch: 0.005916 
+
+Results for 90 epoch 
+Train loss for this epoch: 0.019274 
+Test loss for this epoch: 0.008426 
+
+Results for 91 epoch 
+Train loss for this epoch: 0.014567 
+Test loss for this epoch: 0.005583 
+
+Results for 92 epoch 
+Train loss for this epoch: 0.014076 
+Test loss for this epoch: 0.005528 
+
+Results for 93 epoch 
+Train loss for this epoch: 0.014026 
+Test loss for this epoch: 0.005564 
+
+Results for 94 epoch 
+Train loss for this epoch: 0.016048 
+Test loss for this epoch: 0.005880 
+
+Results for 95 epoch 
+Train loss for this epoch: 0.016429 
+Test loss for this epoch: 0.006718 
+
+Results for 96 epoch 
+Train loss for this epoch: 0.018264 
+Test loss for this epoch: 0.005953 
+
+Results for 97 epoch 
+Train loss for this epoch: 0.024438 
+Test loss for this epoch: 0.011306 
+
+Results for 98 epoch 
+Train loss for this epoch: 0.016297 
+Test loss for this epoch: 0.005704 
+
+Results for 99 epoch 
+Train loss for this epoch: 0.017988 
+Test loss for this epoch: 0.007584 
+
+Results for 100 epoch 
+Train loss for this epoch: 0.014974 
+Test loss for this epoch: 0.005585 
+
+Results for 101 epoch 
+Train loss for this epoch: 0.014188 
+Test loss for this epoch: 0.005586 
+
+Results for 102 epoch 
+Train loss for this epoch: 0.014719 
+Test loss for this epoch: 0.005561 
+
+Results for 103 epoch 
+Train loss for this epoch: 0.014075 
+Test loss for this epoch: 0.005545 
+
+Results for 104 epoch 
+Train loss for this epoch: 0.014869 
+Test loss for this epoch: 0.005562 
+
+Results for 105 epoch 
+Train loss for this epoch: 0.014547 
+Test loss for this epoch: 0.005795 
+
+Results for 106 epoch 
+Train loss for this epoch: 0.015370 
+Test loss for this epoch: 0.005581 
+
+Results for 107 epoch 
+Train loss for this epoch: 0.016182 
+Test loss for this epoch: 0.006601 
+
+Results for 108 epoch 
+Train loss for this epoch: 0.016081 
+Test loss for this epoch: 0.005610 
+
+Results for 109 epoch 
+Train loss for this epoch: 0.018605 
+Test loss for this epoch: 0.007768 
+
+Results for 110 epoch 
+Train loss for this epoch: 0.016534 
+Test loss for this epoch: 0.005620 
+
+Results for 111 epoch 
+Train loss for this epoch: 0.019840 
+Test loss for this epoch: 0.008187 
+
+Results for 112 epoch 
+Train loss for this epoch: 0.017432 
+Test loss for this epoch: 0.005637 
+
+Results for 113 epoch 
+Train loss for this epoch: 0.023414 
+Test loss for this epoch: 0.009688 
+
+Results for 114 epoch 
+Train loss for this epoch: 0.020427 
+Test loss for this epoch: 0.005690 
+
+Results for 115 epoch 
+Train loss for this epoch: 0.041456 
+Test loss for this epoch: 0.020782 
+
+Results for 116 epoch 
+Train loss for this epoch: 0.021238 
+Test loss for this epoch: 0.005703 
+
+Results for 117 epoch 
+Train loss for this epoch: 0.048802 
+Test loss for this epoch: 0.026576 
+
+Results for 118 epoch 
+Train loss for this epoch: 0.023615 
+Test loss for this epoch: 0.006066 
+
+Results for 119 epoch 
+Train loss for this epoch: 0.052531 
+Test loss for this epoch: 0.031193 
+
+Results for 120 epoch 
+Train loss for this epoch: 0.021309 
+Test loss for this epoch: 0.006329 
+
+Results for 121 epoch 
+Train loss for this epoch: 0.031935 
+Test loss for this epoch: 0.016938 
+
+Results for 122 epoch 
+Train loss for this epoch: 0.022219 
+Test loss for this epoch: 0.006579 
+
+Results for 123 epoch 
+Train loss for this epoch: 0.033581 
+Test loss for this epoch: 0.019245 
+
+Results for 124 epoch 
+Train loss for this epoch: 0.017341 
+Test loss for this epoch: 0.005939 
+
+Results for 125 epoch 
+Train loss for this epoch: 0.018707 
+Test loss for this epoch: 0.008849 
+
+Results for 126 epoch 
+Train loss for this epoch: 0.016772 
+Test loss for this epoch: 0.005805 
+
+Results for 127 epoch 
+Train loss for this epoch: 0.018355 
+Test loss for this epoch: 0.008763 
+
+Results for 128 epoch 
+Train loss for this epoch: 0.016122 
+Test loss for this epoch: 0.005706 
+
+Results for 129 epoch 
+Train loss for this epoch: 0.016900 
+Test loss for this epoch: 0.007829 
+
+Results for 130 epoch 
+Train loss for this epoch: 0.015464 
+Test loss for this epoch: 0.005594 
+
+Results for 131 epoch 
+Train loss for this epoch: 0.015877 
+Test loss for this epoch: 0.007145 
+
+Results for 132 epoch 
+Train loss for this epoch: 0.015052 
+Test loss for this epoch: 0.005535 
+
+Results for 133 epoch 
+Train loss for this epoch: 0.015320 
+Test loss for this epoch: 0.006772 
+
+Results for 134 epoch 
+Train loss for this epoch: 0.014768 
+Test loss for this epoch: 0.005506 
+
+Results for 135 epoch 
+Train loss for this epoch: 0.014974 
+Test loss for this epoch: 0.006538 
+
+Results for 136 epoch 
+Train loss for this epoch: 0.014551 
+Test loss for this epoch: 0.005496 
+
+Results for 137 epoch 
+Train loss for this epoch: 0.014720 
+Test loss for this epoch: 0.006362 
+
+Results for 138 epoch 
+Train loss for this epoch: 0.014381 
+Test loss for this epoch: 0.005502 
+
+Results for 139 epoch 
+Train loss for this epoch: 0.014519 
+Test loss for this epoch: 0.006214 
+
+Results for 140 epoch 
+Train loss for this epoch: 0.014249 
+Test loss for this epoch: 0.005524 
+
+Results for 141 epoch 
+Train loss for this epoch: 0.014357 
+Test loss for this epoch: 0.006085 
+
+Results for 142 epoch 
+Train loss for this epoch: 0.014152 
+Test loss for this epoch: 0.005562 
+
+Results for 143 epoch 
+Train loss for this epoch: 0.014230 
+Test loss for this epoch: 0.005970 
+
+Results for 144 epoch 
+Train loss for this epoch: 0.014090 
+Test loss for this epoch: 0.005618 
+
+Results for 145 epoch 
+Train loss for this epoch: 0.014139 
+Test loss for this epoch: 0.005868 
+
+Results for 146 epoch 
+Train loss for this epoch: 0.014070 
+Test loss for this epoch: 0.005699 
+
+Results for 147 epoch 
+Train loss for this epoch: 0.014086 
+Test loss for this epoch: 0.005777 
+
+Results for 148 epoch 
+Train loss for this epoch: 0.014102 
+Test loss for this epoch: 0.005808 
+
+Results for 149 epoch 
+Train loss for this epoch: 0.014074 
+Test loss for this epoch: 0.005701 
+
+Results for 150 epoch 
+Train loss for this epoch: 0.014187 
+Test loss for this epoch: 0.005944 
+
+Results for 151 epoch 
+Train loss for this epoch: 0.014099 
+Test loss for this epoch: 0.005643 
+
+Results for 152 epoch 
+Train loss for this epoch: 0.014305 
+Test loss for this epoch: 0.006088 
+
+Results for 153 epoch 
+Train loss for this epoch: 0.014139 
+Test loss for this epoch: 0.005605 
+
+Results for 154 epoch 
+Train loss for this epoch: 0.014393 
+Test loss for this epoch: 0.006191 
+
+Results for 155 epoch 
+Train loss for this epoch: 0.014156 
+Test loss for this epoch: 0.005591 
+
+Results for 156 epoch 
+Train loss for this epoch: 0.014368 
+Test loss for this epoch: 0.006187 
+
+Results for 157 epoch 
+Train loss for this epoch: 0.014122 
+Test loss for this epoch: 0.005612 
+
+Results for 158 epoch 
+Train loss for this epoch: 0.014217 
+Test loss for this epoch: 0.006044 
+
+Results for 159 epoch 
+Train loss for this epoch: 0.014073 
+Test loss for this epoch: 0.005698 
+
+Results for 160 epoch 
+Train loss for this epoch: 0.014080 
+Test loss for this epoch: 0.005813 
+
+Results for 161 epoch 
+Train loss for this epoch: 0.014201 
+Test loss for this epoch: 0.005949 
+
+Results for 162 epoch 
+Train loss for this epoch: 0.014241 
+Test loss for this epoch: 0.005596 
+
+Results for 163 epoch 
+Train loss for this epoch: 0.015005 
+Test loss for this epoch: 0.006631 
+
+Results for 164 epoch 
+Train loss for this epoch: 0.014972 
+Test loss for this epoch: 0.005493 
+
+Results for 165 epoch 
+Train loss for this epoch: 0.017086 
+Test loss for this epoch: 0.008098 
+
+Results for 166 epoch 
+Train loss for this epoch: 0.015816 
+Test loss for this epoch: 0.005524 
+
+Results for 167 epoch 
+Train loss for this epoch: 0.018378 
+Test loss for this epoch: 0.009031 
+
+Results for 168 epoch 
+Train loss for this epoch: 0.015431 
+Test loss for this epoch: 0.005527 
+
+Results for 169 epoch 
+Train loss for this epoch: 0.015570 
+Test loss for this epoch: 0.007098 
+
+Results for 170 epoch 
+Train loss for this epoch: 0.014514 
+Test loss for this epoch: 0.005499 
+
+Results for 171 epoch 
+Train loss for this epoch: 0.014077 
+Test loss for this epoch: 0.005717 
+
+Results for 172 epoch 
+Train loss for this epoch: 0.014115 
+Test loss for this epoch: 0.005759 
+
+Results for 173 epoch 
+Train loss for this epoch: 0.015557 
+Test loss for this epoch: 0.005486 
+
+Results for 174 epoch 
+Train loss for this epoch: 0.018606 
+Test loss for this epoch: 0.008520 
+
+Results for 175 epoch 
+Train loss for this epoch: 0.020115 
+Test loss for this epoch: 0.005604 
+
+Results for 176 epoch 
+Train loss for this epoch: 0.040050 
+Test loss for this epoch: 0.023376 
+
+Results for 177 epoch 
+Train loss for this epoch: 0.015681 
+Test loss for this epoch: 0.005495 
+
+Results for 178 epoch 
+Train loss for this epoch: 0.017039 
+Test loss for this epoch: 0.007669 
+
+Results for 179 epoch 
+Train loss for this epoch: 0.015869 
+Test loss for this epoch: 0.005505 
+
+Results for 180 epoch 
+Train loss for this epoch: 0.015509 
+Test loss for this epoch: 0.006480 
+
+Results for 181 epoch 
+Train loss for this epoch: 0.018208 
+Test loss for this epoch: 0.005566 
+
+Results for 182 epoch 
+Train loss for this epoch: 0.024230 
+Test loss for this epoch: 0.011481 
+
+Results for 183 epoch 
+Train loss for this epoch: 0.022566 
+Test loss for this epoch: 0.005641 
+
+Results for 184 epoch 
+Train loss for this epoch: 0.049766 
+Test loss for this epoch: 0.030147 
+
+Results for 185 epoch 
+Train loss for this epoch: 0.017244 
+Test loss for this epoch: 0.005497 
+
+Results for 186 epoch 
+Train loss for this epoch: 0.022814 
+Test loss for this epoch: 0.010730 
+
+Results for 187 epoch 
+Train loss for this epoch: 0.025091 
+Test loss for this epoch: 0.005861 
+
+Results for 188 epoch 
+Train loss for this epoch: 0.056703 
+Test loss for this epoch: 0.037348 
+
+Results for 189 epoch 
+Train loss for this epoch: 0.016373 
+Test loss for this epoch: 0.005511 
+
+Results for 190 epoch 
+Train loss for this epoch: 0.017212 
+Test loss for this epoch: 0.007842 
+
+Results for 191 epoch 
+Train loss for this epoch: 0.020220 
+Test loss for this epoch: 0.005804 
+
+Results for 192 epoch 
+Train loss for this epoch: 0.030836 
+Test loss for this epoch: 0.018207 
+
+Results for 193 epoch 
+Train loss for this epoch: 0.017942 
+Test loss for this epoch: 0.005684 
+
+Results for 194 epoch 
+Train loss for this epoch: 0.021301 
+Test loss for this epoch: 0.011360 
+
+Results for 195 epoch 
+Train loss for this epoch: 0.016795 
+Test loss for this epoch: 0.005545 
+
+Results for 196 epoch 
+Train loss for this epoch: 0.019020 
+Test loss for this epoch: 0.009760 
+
+Results for 197 epoch 
+Train loss for this epoch: 0.016484 
+Test loss for this epoch: 0.005517 
+
+Results for 198 epoch 
+Train loss for this epoch: 0.018209 
+Test loss for this epoch: 0.009215 
+
+Results for 199 epoch 
+Train loss for this epoch: 0.016209 
+Test loss for this epoch: 0.005491 
+
+Results for 200 epoch 
+Train loss for this epoch: 0.017697 
+Test loss for this epoch: 0.008880 
+
+Results for 201 epoch 
+Train loss for this epoch: 0.015921 
+Test loss for this epoch: 0.005467 
+
+Results for 202 epoch 
+Train loss for this epoch: 0.017219 
+Test loss for this epoch: 0.008557 
+
+Results for 203 epoch 
+Train loss for this epoch: 0.015662 
+Test loss for this epoch: 0.005450 
+
+Results for 204 epoch 
+Train loss for this epoch: 0.016796 
+Test loss for this epoch: 0.008262 
+
+Results for 205 epoch 
+Train loss for this epoch: 0.015454 
+Test loss for this epoch: 0.005440 
+
+Results for 206 epoch 
+Train loss for this epoch: 0.016465 
+Test loss for this epoch: 0.008027 
+
+Results for 207 epoch 
+Train loss for this epoch: 0.015294 
+Test loss for this epoch: 0.005435 
+
+Results for 208 epoch 
+Train loss for this epoch: 0.016222 
+Test loss for this epoch: 0.007853 
+
+Results for 209 epoch 
+Train loss for this epoch: 0.015173 
+Test loss for this epoch: 0.005435 
+
+Results for 210 epoch 
+Train loss for this epoch: 0.016046 
+Test loss for this epoch: 0.007728 
+
+Results for 211 epoch 
+Train loss for this epoch: 0.015084 
+Test loss for this epoch: 0.005436 
+
+Results for 212 epoch 
+Train loss for this epoch: 0.015924 
+Test loss for this epoch: 0.007640 
+
+Results for 213 epoch 
+Train loss for this epoch: 0.015023 
+Test loss for this epoch: 0.005438 
+
+Results for 214 epoch 
+Train loss for this epoch: 0.015847 
+Test loss for this epoch: 0.007585 
+
+Results for 215 epoch 
+Train loss for this epoch: 0.014987 
+Test loss for this epoch: 0.005440 
+
+Results for 216 epoch 
+Train loss for this epoch: 0.015813 
+Test loss for this epoch: 0.007561 
+
+Results for 217 epoch 
+Train loss for this epoch: 0.014978 
+Test loss for this epoch: 0.005441 
+
+Results for 218 epoch 
+Train loss for this epoch: 0.015824 
+Test loss for this epoch: 0.007570 
+
+Results for 219 epoch 
+Train loss for this epoch: 0.014996 
+Test loss for this epoch: 0.005439 
+
+Results for 220 epoch 
+Train loss for this epoch: 0.015887 
+Test loss for this epoch: 0.007616 
+
+Results for 221 epoch 
+Train loss for this epoch: 0.015047 
+Test loss for this epoch: 0.005436 
+
+Results for 222 epoch 
+Train loss for this epoch: 0.016014 
+Test loss for this epoch: 0.007707 
+
+Results for 223 epoch 
+Train loss for this epoch: 0.015137 
+Test loss for this epoch: 0.005431 
+
+Results for 224 epoch 
+Train loss for this epoch: 0.016226 
+Test loss for this epoch: 0.007857 
+
+Results for 225 epoch 
+Train loss for this epoch: 0.015280 
+Test loss for this epoch: 0.005424 
+
+Results for 226 epoch 
+Train loss for this epoch: 0.016559 
+Test loss for this epoch: 0.008087 
+
+Results for 227 epoch 
+Train loss for this epoch: 0.015492 
+Test loss for this epoch: 0.005416 
+
+Results for 228 epoch 
+Train loss for this epoch: 0.017066 
+Test loss for this epoch: 0.008432 
+
+Results for 229 epoch 
+Train loss for this epoch: 0.015795 
+Test loss for this epoch: 0.005410 
+
+Results for 230 epoch 
+Train loss for this epoch: 0.017821 
+Test loss for this epoch: 0.008939 
+
+Results for 231 epoch 
+Train loss for this epoch: 0.016209 
+Test loss for this epoch: 0.005409 
+
+Results for 232 epoch 
+Train loss for this epoch: 0.018912 
+Test loss for this epoch: 0.009667 
+
+Results for 233 epoch 
+Train loss for this epoch: 0.016737 
+Test loss for this epoch: 0.005416 
+
+Results for 234 epoch 
+Train loss for this epoch: 0.020391 
+Test loss for this epoch: 0.010660 
+
+Results for 235 epoch 
+Train loss for this epoch: 0.017342 
+Test loss for this epoch: 0.005429 
+
+Results for 236 epoch 
+Train loss for this epoch: 0.022161 
+Test loss for this epoch: 0.011880 
+
+Results for 237 epoch 
+Train loss for this epoch: 0.017928 
+Test loss for this epoch: 0.005449 
+
+Results for 238 epoch 
+Train loss for this epoch: 0.023858 
+Test loss for this epoch: 0.013107 
+
+Results for 239 epoch 
+Train loss for this epoch: 0.018360 
+Test loss for this epoch: 0.005470 
+
+Results for 240 epoch 
+Train loss for this epoch: 0.024904 
+Test loss for this epoch: 0.013950 
+
+Results for 241 epoch 
+Train loss for this epoch: 0.018516 
+Test loss for this epoch: 0.005487 
+
+Results for 242 epoch 
+Train loss for this epoch: 0.024864 
+Test loss for this epoch: 0.014072 
+
+Results for 243 epoch 
+Train loss for this epoch: 0.018343 
+Test loss for this epoch: 0.005487 
+
+Results for 244 epoch 
+Train loss for this epoch: 0.023799 
+Test loss for this epoch: 0.013457 
+
+Results for 245 epoch 
+Train loss for this epoch: 0.017898 
+Test loss for this epoch: 0.005465 
+
+Results for 246 epoch 
+Train loss for this epoch: 0.022186 
+Test loss for this epoch: 0.012409 
+
+Results for 247 epoch 
+Train loss for this epoch: 0.017314 
+Test loss for this epoch: 0.005427 
+
+Results for 248 epoch 
+Train loss for this epoch: 0.020529 
+Test loss for this epoch: 0.011280 
+
+Results for 249 epoch 
+Train loss for this epoch: 0.016722 
+Test loss for this epoch: 0.005388 
+
+Results for 250 epoch 
+Train loss for this epoch: 0.019114 
+Test loss for this epoch: 0.010284 
+
+Results for 251 epoch 
+Train loss for this epoch: 0.016198 
+Test loss for this epoch: 0.005359 
+
+Results for 252 epoch 
+Train loss for this epoch: 0.018014 
+Test loss for this epoch: 0.009488 
+
+Results for 253 epoch 
+Train loss for this epoch: 0.015765 
+Test loss for this epoch: 0.005344 
+
+Results for 254 epoch 
+Train loss for this epoch: 0.017193 
+Test loss for this epoch: 0.008878 
+
+Results for 255 epoch 
+Train loss for this epoch: 0.015421 
+Test loss for this epoch: 0.005342 
+
+Results for 256 epoch 
+Train loss for this epoch: 0.016587 
+Test loss for this epoch: 0.008417 
+
+Results for 257 epoch 
+Train loss for this epoch: 0.015152 
+Test loss for this epoch: 0.005351 
+
+Results for 258 epoch 
+Train loss for this epoch: 0.016137 
+Test loss for this epoch: 0.008066 
+
+Results for 259 epoch 
+Train loss for this epoch: 0.014944 
+Test loss for this epoch: 0.005367 
+
+Results for 260 epoch 
+Train loss for this epoch: 0.015800 
+Test loss for this epoch: 0.007796 
+
+Results for 261 epoch 
+Train loss for this epoch: 0.014783 
+Test loss for this epoch: 0.005387 
+
+Results for 262 epoch 
+Train loss for this epoch: 0.015542 
+Test loss for this epoch: 0.007586 
+
+Results for 263 epoch 
+Train loss for this epoch: 0.014659 
+Test loss for this epoch: 0.005409 
+
+Results for 264 epoch 
+Train loss for this epoch: 0.015343 
+Test loss for this epoch: 0.007419 
+
+Results for 265 epoch 
+Train loss for this epoch: 0.014562 
+Test loss for this epoch: 0.005431 
+
+Results for 266 epoch 
+Train loss for this epoch: 0.015187 
+Test loss for this epoch: 0.007285 
+
+Results for 267 epoch 
+Train loss for this epoch: 0.014487 
+Test loss for this epoch: 0.005452 
+
+Results for 268 epoch 
+Train loss for this epoch: 0.015061 
+Test loss for this epoch: 0.007175 
+
+Results for 269 epoch 
+Train loss for this epoch: 0.014426 
+Test loss for this epoch: 0.005471 
+
+Results for 270 epoch 
+Train loss for this epoch: 0.014958 
+Test loss for this epoch: 0.007084 
+
+Results for 271 epoch 
+Train loss for this epoch: 0.014377 
+Test loss for this epoch: 0.005488 
+
+Results for 272 epoch 
+Train loss for this epoch: 0.014871 
+Test loss for this epoch: 0.007005 
+
+Results for 273 epoch 
+Train loss for this epoch: 0.014336 
+Test loss for this epoch: 0.005503 
+
+Results for 274 epoch 
+Train loss for this epoch: 0.014796 
+Test loss for this epoch: 0.006936 
+
+Results for 275 epoch 
+Train loss for this epoch: 0.014300 
+Test loss for this epoch: 0.005516 
+
+Results for 276 epoch 
+Train loss for this epoch: 0.014729 
+Test loss for this epoch: 0.006872 
+
+Results for 277 epoch 
+Train loss for this epoch: 0.014267 
+Test loss for this epoch: 0.005526 
+
+Results for 278 epoch 
+Train loss for this epoch: 0.014665 
+Test loss for this epoch: 0.006810 
+
+Results for 279 epoch 
+Train loss for this epoch: 0.014235 
+Test loss for this epoch: 0.005536 
+
+Results for 280 epoch 
+Train loss for this epoch: 0.014601 
+Test loss for this epoch: 0.006748 
+
+Results for 281 epoch 
+Train loss for this epoch: 0.014203 
+Test loss for this epoch: 0.005544 
+
+Results for 282 epoch 
+Train loss for this epoch: 0.014535 
+Test loss for this epoch: 0.006680 
+
+Results for 283 epoch 
+Train loss for this epoch: 0.014167 
+Test loss for this epoch: 0.005553 
+
+Results for 284 epoch 
+Train loss for this epoch: 0.014462 
+Test loss for this epoch: 0.006603 
+
+Results for 285 epoch 
+Train loss for this epoch: 0.014126 
+Test loss for this epoch: 0.005564 
+
+Results for 286 epoch 
+Train loss for this epoch: 0.014378 
+Test loss for this epoch: 0.006511 
+
+Results for 287 epoch 
+Train loss for this epoch: 0.014079 
+Test loss for this epoch: 0.005580 
+
+Results for 288 epoch 
+Train loss for this epoch: 0.014279 
+Test loss for this epoch: 0.006397 
+
+Results for 289 epoch 
+Train loss for this epoch: 0.014023 
+Test loss for this epoch: 0.005607 
+
+Results for 290 epoch 
+Train loss for this epoch: 0.014161 
+Test loss for this epoch: 0.006249 
+
+Results for 291 epoch 
+Train loss for this epoch: 0.013965 
+Test loss for this epoch: 0.005657 
+
+Results for 292 epoch 
+Train loss for this epoch: 0.014028 
+Test loss for this epoch: 0.006054 
+
+Results for 293 epoch 
+Train loss for this epoch: 0.013925 
+Test loss for this epoch: 0.005753 
+
+Results for 294 epoch 
+Train loss for this epoch: 0.013905 
+Test loss for this epoch: 0.005799 
+
+Results for 295 epoch 
+Train loss for this epoch: 0.013974 
+Test loss for this epoch: 0.005953 
+
+Results for 296 epoch 
+Train loss for this epoch: 0.013873 
+Test loss for this epoch: 0.005476 
+
+Results for 297 epoch 
+Train loss for this epoch: 0.014330 
+Test loss for this epoch: 0.006397 
+
+Results for 298 epoch 
+Train loss for this epoch: 0.014118 
+Test loss for this epoch: 0.005101 
+
+Results for 299 epoch 
+Train loss for this epoch: 0.015477 
+Test loss for this epoch: 0.007354 
+
+
+
+Final Train MSE loss 4.125244826940839Final Test MSE loss 16.530377716530612
